@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFramework>net7.0</TargetFramework>
+    <PackageId>ResultType</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>kievzenit</Authors>
+    <PackageDescription>ResultType is a package to help using Result monad</PackageDescription>
+    <RepositoryUrl>https://github.com/kievzenit/ResultType</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
